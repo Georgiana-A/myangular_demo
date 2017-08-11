@@ -2,8 +2,7 @@
   "name": "angular-demo",
   "version": "1.0.0",
   "scripts": {
-      "tsc:w" : "tsc -w",
-      "start": "npm run tsc:w"
+    "start": "tsc -w"
   },
   "dependencies": {
     "@angular/common": "~2.3.0",
